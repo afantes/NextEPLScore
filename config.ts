@@ -1,1 +1,1 @@
-export const EPL_API_KEY = 'e9e0c56c6a474e20beee1d7e70aa6cc1';
+export const EPL_API_KEY = '';
