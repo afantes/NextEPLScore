@@ -45,10 +45,11 @@ const HomePage: FC<HomePageProps> = ({ initialData }) => {
       <h1>Premier League - Schedule & Scores :</h1>
       <h2>
         //
-        {new Date().toLocaleDateString("en-EN", {
+{/*         {new Date().toLocaleDateString("en-EN", {
           month: "long",
           year: "numeric",
-        })}
+        })} */}
+        MAY 2024
         //
       </h2>
       <br />
